@@ -1,0 +1,275 @@
+2025-04-09 01:00:47,208 - __main__ - INFO - Successfully initialized Gemini model
+2025-04-09 01:00:47,210 - __main__ - INFO - Starting application on port 5000, debug=False
+2025-04-09 01:00:47,223 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.13:5000
+2025-04-09 01:00:47,223 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:01:03,746 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:01:03] "GET / HTTP/1.1" 200 -
+2025-04-09 01:01:03,797 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:01:03] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-09 01:01:03,813 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:01:03] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-09 01:01:29,380 - __main__ - INFO - Processing query: best smartphone under 80000 in...
+2025-04-09 01:01:33,097 - __main__ - INFO - Query processed in 3.72 seconds
+2025-04-09 01:01:33,098 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:01:33] "POST /api/chat HTTP/1.1" 200 -
+2025-04-09 01:03:57,213 - __main__ - INFO - Successfully initialized Gemini model
+2025-04-09 01:03:57,214 - __main__ - INFO - Starting application on port 5000, debug=False
+2025-04-09 01:03:57,229 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.13:5000
+2025-04-09 01:03:57,230 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:04:03,058 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:04:03] "GET / HTTP/1.1" 200 -
+2025-04-09 01:04:03,074 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:04:03] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-09 01:04:03,075 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:04:03] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:04:04,289 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:04:04] "GET / HTTP/1.1" 200 -
+2025-04-09 01:04:04,303 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:04:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:04:04,304 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:04:04] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:04:08,580 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:04:08] "GET / HTTP/1.1" 200 -
+2025-04-09 01:04:08,595 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:04:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:04:08,595 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:04:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:04:21,253 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:04:21] "GET / HTTP/1.1" 200 -
+2025-04-09 01:04:21,269 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:04:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:04:21,271 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:04:21] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:04:40,215 - __main__ - INFO - Processing query: wireless earbuds under 6000...
+2025-04-09 01:04:43,668 - __main__ - INFO - Query processed in 3.45 seconds
+2025-04-09 01:04:43,669 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:04:43] "POST /api/chat HTTP/1.1" 200 -
+2025-04-09 01:05:08,865 - __main__ - INFO - Processing query: in indian rupess...
+2025-04-09 01:05:09,635 - __main__ - INFO - Query processed in 0.77 seconds
+2025-04-09 01:05:09,636 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:05:09] "POST /api/chat HTTP/1.1" 200 -
+2025-04-09 01:05:28,985 - __main__ - INFO - Processing query: earbuds in indian rupees...
+2025-04-09 01:05:31,144 - __main__ - INFO - Query processed in 2.16 seconds
+2025-04-09 01:05:31,144 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:05:31] "POST /api/chat HTTP/1.1" 200 -
+2025-04-09 01:08:42,986 - __main__ - INFO - Successfully initialized Gemini model
+2025-04-09 01:08:42,988 - __main__ - INFO - Starting application on port 5000, debug=False
+2025-04-09 01:08:42,999 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.13:5000
+2025-04-09 01:08:43,000 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:08:48,551 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:08:48] "GET / HTTP/1.1" 200 -
+2025-04-09 01:08:48,567 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:08:48] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-09 01:08:48,569 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:08:48] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:10:23,738 - __main__ - INFO - Successfully initialized Gemini model
+2025-04-09 01:10:23,740 - __main__ - INFO - Starting application on port 5000, debug=False
+2025-04-09 01:10:23,752 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.13:5000
+2025-04-09 01:10:23,752 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:10:30,676 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:10:30] "GET / HTTP/1.1" 200 -
+2025-04-09 01:10:30,693 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:10:30] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-09 01:10:30,694 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:10:30] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:10:33,036 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:10:33] "GET / HTTP/1.1" 200 -
+2025-04-09 01:10:33,052 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:10:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:10:33,054 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:10:33] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-09 01:10:37,189 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:10:37] "GET / HTTP/1.1" 200 -
+2025-04-09 01:10:37,206 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:10:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:10:37,207 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:10:37] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:10:53,198 - __main__ - INFO - Successfully initialized Gemini model
+2025-04-09 01:10:53,199 - __main__ - INFO - Starting application on port 5000, debug=False
+2025-04-09 01:10:53,214 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.13:5000
+2025-04-09 01:10:53,214 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:10:56,483 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:10:56] "GET / HTTP/1.1" 200 -
+2025-04-09 01:10:56,498 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:10:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:10:56,500 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:10:56] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-09 01:11:12,955 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:11:12] "GET / HTTP/1.1" 200 -
+2025-04-09 01:11:12,976 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:11:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:11:12,981 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:11:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:13:44,615 - __main__ - INFO - Successfully initialized Gemini model
+2025-04-09 01:13:44,616 - __main__ - INFO - Starting application on port 5000, debug=False
+2025-04-09 01:13:44,628 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.13:5000
+2025-04-09 01:13:44,628 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:13:50,299 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:13:50] "GET / HTTP/1.1" 200 -
+2025-04-09 01:13:50,312 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:13:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:13:50,313 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:13:50] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-09 01:14:15,711 - __main__ - INFO - Processing query: smartphone...
+2025-04-09 01:14:19,322 - __main__ - INFO - Query processed in 3.61 seconds
+2025-04-09 01:14:19,323 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:14:19] "POST /api/chat HTTP/1.1" 200 -
+2025-04-09 01:17:58,371 - __main__ - INFO - Successfully initialized Gemini model
+2025-04-09 01:17:58,373 - __main__ - INFO - Starting application on port 5000, debug=False
+2025-04-09 01:17:58,388 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.13:5000
+2025-04-09 01:17:58,388 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:18:01,427 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:01] "GET / HTTP/1.1" 200 -
+2025-04-09 01:18:01,445 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:01] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-09 01:18:01,446 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:01] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-09 01:18:04,199 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:04] "GET / HTTP/1.1" 200 -
+2025-04-09 01:18:04,216 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:18:04,217 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:04] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:18:06,509 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:06] "GET / HTTP/1.1" 200 -
+2025-04-09 01:18:06,531 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:18:06,532 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:06] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:18:07,522 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:07] "GET / HTTP/1.1" 200 -
+2025-04-09 01:18:07,538 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:18:07,540 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:07] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:18:07,756 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:07] "GET / HTTP/1.1" 200 -
+2025-04-09 01:18:07,769 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:18:07,769 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:07] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:18:07,980 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:07] "GET / HTTP/1.1" 200 -
+2025-04-09 01:18:07,990 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:18:07,991 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:07] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:18:08,159 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:08] "GET / HTTP/1.1" 200 -
+2025-04-09 01:18:08,171 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:18:08,173 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:18:08,530 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:08] "GET / HTTP/1.1" 200 -
+2025-04-09 01:18:08,543 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:18:08,545 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:18:08,732 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:08] "GET / HTTP/1.1" 200 -
+2025-04-09 01:18:08,741 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:18:08,742 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:18:08,893 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:08] "GET / HTTP/1.1" 200 -
+2025-04-09 01:18:08,905 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:18:08,907 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:18:38,685 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:38] "GET / HTTP/1.1" 200 -
+2025-04-09 01:18:38,707 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:18:38,709 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:38] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:18:46,756 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:46] "GET / HTTP/1.1" 200 -
+2025-04-09 01:18:46,789 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:46] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-09 01:18:46,789 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:18:46] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-09 01:19:36,525 - __main__ - INFO - Processing query: wired gaming headphones under ...
+2025-04-09 01:19:38,967 - __main__ - INFO - Query processed in 2.44 seconds
+2025-04-09 01:19:38,968 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:19:38] "POST /api/chat HTTP/1.1" 200 -
+2025-04-09 01:20:10,338 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:10] "GET / HTTP/1.1" 200 -
+2025-04-09 01:20:10,350 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:20:10,350 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:10] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:20:22,313 - __main__ - INFO - Processing query: dildo...
+2025-04-09 01:20:23,248 - __main__ - INFO - Query processed in 0.93 seconds
+2025-04-09 01:20:23,249 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:23] "POST /api/chat HTTP/1.1" 200 -
+2025-04-09 01:20:32,407 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:32] "GET / HTTP/1.1" 200 -
+2025-04-09 01:20:32,419 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:20:32,419 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:32] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:20:33,833 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:33] "GET / HTTP/1.1" 200 -
+2025-04-09 01:20:33,849 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:20:33,850 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:33] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:20:34,397 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:34] "GET / HTTP/1.1" 200 -
+2025-04-09 01:20:34,415 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:20:34,415 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:34] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:20:34,941 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:34] "GET / HTTP/1.1" 200 -
+2025-04-09 01:20:34,958 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:20:34,959 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:34] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:20:35,149 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:35] "GET / HTTP/1.1" 200 -
+2025-04-09 01:20:35,164 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:20:35,165 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:35] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:20:35,365 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:35] "GET / HTTP/1.1" 200 -
+2025-04-09 01:20:35,381 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:20:35,382 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:35] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:20:35,558 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:35] "GET / HTTP/1.1" 200 -
+2025-04-09 01:20:35,575 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:20:35,575 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:20:35] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:25:01,963 - __main__ - INFO - Successfully initialized Gemini model
+2025-04-09 01:25:01,964 - __main__ - INFO - Starting application on port 5000, debug=False
+2025-04-09 01:25:01,976 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.13:5000
+2025-04-09 01:25:01,976 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:25:04,440 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:25:04] "GET / HTTP/1.1" 200 -
+2025-04-09 01:25:04,453 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:25:04] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-09 01:25:04,455 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:25:04] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-09 01:25:08,548 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:25:08] "GET / HTTP/1.1" 200 -
+2025-04-09 01:25:08,564 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:25:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:25:08,565 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:25:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:26:34,808 - __main__ - INFO - Successfully initialized Gemini model
+2025-04-09 01:26:34,810 - __main__ - INFO - Starting application on port 5000, debug=False
+2025-04-09 01:26:34,821 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.13:5000
+2025-04-09 01:26:34,822 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:26:39,088 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:26:39] "GET / HTTP/1.1" 200 -
+2025-04-09 01:26:39,103 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:26:39] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-09 01:26:39,104 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:26:39] "GET /static/script.js HTTP/1.1" 200 -
+2025-04-09 01:26:50,390 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:26:50] "GET / HTTP/1.1" 200 -
+2025-04-09 01:26:50,404 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:26:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:26:50,404 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:26:50] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:26:57,751 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:26:57] "GET / HTTP/1.1" 200 -
+2025-04-09 01:26:57,768 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:26:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:26:57,769 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:26:57] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:28:37,678 - __main__ - INFO - Successfully initialized Gemini model
+2025-04-09 01:28:37,679 - __main__ - INFO - Starting application on port 5000, debug=False
+2025-04-09 01:28:37,690 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.13:5000
+2025-04-09 01:28:37,690 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:28:39,440 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:28:39] "GET / HTTP/1.1" 200 -
+2025-04-09 01:28:39,453 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:28:39] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-09 01:28:39,453 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:28:39] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:30:31,296 - __main__ - INFO - Successfully initialized Gemini model
+2025-04-09 01:30:31,297 - __main__ - INFO - Starting application on port 5000, debug=False
+2025-04-09 01:30:31,310 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.13:5000
+2025-04-09 01:30:31,310 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:30:34,377 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:30:34] "GET / HTTP/1.1" 200 -
+2025-04-09 01:30:34,394 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:30:34] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-09 01:30:34,395 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:30:34] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:33:05,818 - __main__ - INFO - Successfully initialized Gemini model
+2025-04-09 01:33:05,819 - __main__ - INFO - Starting application on port 5000, debug=False
+2025-04-09 01:33:05,831 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.13:5000
+2025-04-09 01:33:05,831 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:33:08,072 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:33:08] "GET / HTTP/1.1" 200 -
+2025-04-09 01:33:08,091 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:33:08] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-09 01:33:08,092 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:33:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:36:44,464 - __main__ - INFO - Successfully initialized Gemini model
+2025-04-09 01:36:44,466 - __main__ - INFO - Starting application on port 5000, debug=False
+2025-04-09 01:36:44,478 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.13:5000
+2025-04-09 01:36:44,478 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:36:48,911 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:36:48] "GET / HTTP/1.1" 200 -
+2025-04-09 01:36:48,928 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:36:48] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-09 01:36:48,929 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:36:48] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:39:33,134 - __main__ - INFO - Successfully initialized Gemini model
+2025-04-09 01:39:33,136 - __main__ - INFO - Starting application on port 5000, debug=False
+2025-04-09 01:39:33,151 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.13:5000
+2025-04-09 01:39:33,151 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:39:35,194 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:39:35] "GET / HTTP/1.1" 200 -
+2025-04-09 01:39:35,208 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:39:35] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:39:35,208 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:39:35] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-09 01:43:12,262 - __main__ - INFO - Successfully initialized Gemini model
+2025-04-09 01:43:12,264 - __main__ - INFO - Starting application on port 5000, debug=False
+2025-04-09 01:43:12,279 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.13:5000
+2025-04-09 01:43:12,279 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:43:16,716 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:43:16] "GET / HTTP/1.1" 200 -
+2025-04-09 01:43:16,729 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:43:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:43:16,736 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:43:16] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:43:28,613 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:43:28] "GET / HTTP/1.1" 200 -
+2025-04-09 01:43:28,638 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:43:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:43:28,638 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:43:28] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:43:40,839 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:43:40] "GET / HTTP/1.1" 200 -
+2025-04-09 01:43:40,860 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:43:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:43:40,862 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:43:40] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:47:54,198 - __main__ - INFO - Successfully initialized Gemini model
+2025-04-09 01:47:54,199 - __main__ - INFO - Starting application on port 5000, debug=False
+2025-04-09 01:47:54,211 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.50.13:5000
+2025-04-09 01:47:54,211 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 01:47:58,918 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:47:58] "GET / HTTP/1.1" 200 -
+2025-04-09 01:47:58,940 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:47:58] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-09 01:47:58,941 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:47:58] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-04-09 01:48:00,051 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:48:00] "GET / HTTP/1.1" 200 -
+2025-04-09 01:48:00,731 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:48:00] "GET / HTTP/1.1" 200 -
+2025-04-09 01:48:01,257 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:48:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-09 01:48:01,261 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 01:48:01] "[36mGET /static/script.js HTTP/1.1[0m" 304 -

@@ -280,6 +280,7 @@ h1:hover::after {
   overflow-x: hidden;
   -webkit-overflow-scrolling: touch;
   overscroll-behavior: contain;
+  min-height: 60vh;
 }
 
 .chat-container::before {
@@ -302,7 +303,6 @@ h1:hover::after {
 /* Message Bubbles */
 .message {
   max-width: 80%;
-  min-width: 60%;
   padding: 1rem 1.25rem;
   border-radius: var(--border-radius);
   line-height: 1.5;
@@ -312,6 +312,8 @@ h1:hover::after {
   transform-origin: bottom;
   margin-bottom: 1rem;
   font-size: 1rem;
+  width: fit-content;
+  min-width: min(300px, 80%);
 }
 
 .message-content {
@@ -319,6 +321,7 @@ h1:hover::after {
   white-space: pre-wrap;
   font-size: inherit;
   line-height: inherit;
+  width: 100%;
 }
 
 .message-content a {
@@ -358,7 +361,8 @@ h1:hover::after {
   box-shadow: 0 2px 8px rgba(139, 92, 246, 0.3);
   animation: slideInRight 0.5s ease-out;
   width: fit-content;
-  min-width: 60%;
+  min-width: min(300px, 80%);
+  height: auto;
 }
 
 .ai-message {
@@ -368,7 +372,8 @@ h1:hover::after {
   position: relative;
   overflow: hidden;
   width: fit-content;
-  min-width: 60%;
+  min-width: min(300px, 80%);
+  height: auto;
 }
 
 .ai-message::before {
@@ -693,7 +698,7 @@ textarea:focus {
 
   .chat-container {
     flex: 1;
-    min-height: 0;
+    min-height: 50vh;
     padding: 1rem;
     margin-bottom: 1rem;
     overflow-y: auto;
@@ -707,7 +712,7 @@ textarea:focus {
 
   .message {
     max-width: 85%;
-    min-width: 70%;
+    min-width: min(250px, 85%);
     padding: 0.75rem 1rem;
     margin-bottom: 0.75rem;
     font-size: 1rem;
@@ -763,7 +768,8 @@ textarea:focus {
 
   .ai-message, 
   .user-message {
-    min-width: 70%;
+    min-width: min(250px, 85%);
+    height: auto;
   }
 }
 
@@ -775,12 +781,13 @@ textarea:focus {
   }
 
   .chat-container {
+    min-height: 45vh;
     padding: 0.75rem;
   }
 
   .message {
     max-width: 90%;
-    min-width: 75%;
+    min-width: min(200px, 90%);
     padding: 0.75rem;
     margin-bottom: 0.75rem;
     font-size: 0.95rem;
@@ -806,7 +813,8 @@ textarea:focus {
 
   .ai-message, 
   .user-message {
-    min-width: 75%;
+    min-width: min(200px, 90%);
+    height: auto;
   }
 }
 
